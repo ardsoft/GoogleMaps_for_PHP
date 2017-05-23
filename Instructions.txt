@@ -1,6 +1,6 @@
 Dear visitor,
 
-Thank you for your interest to DML Google Map Plugýn for PHP.
+Thank you for your interest to DML Google Map Plugin for PHP.
 
 You can download files in zip format using the link attached below.
 https://github.com/ardsoft/GoogleMaps_for_PHP/archive/master.zip
